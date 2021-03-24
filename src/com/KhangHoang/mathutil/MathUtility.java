@@ -31,7 +31,7 @@ public class MathUtility {
             return 1;
         
         //CPU chay den day sure n = 2..20
-        long result = 0; // co tinh 
+        long result = 1; // co tinh 
         for (int i = 2; i <= n; i++) 
             result *= i;
         
